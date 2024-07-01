@@ -71,11 +71,11 @@ streamlit run main.py
 ## Example
 
 1. **Upload a vocabulary file:**
-   ![Upload File](screenshots/upload.png)
+   ![Upload File](image/1.png)
 2. **Enter a word to correct:**
-   ![Input Word](screenshots/input.png)
+   ![Input Word](image/2.png)
 3. **View the correction and distances:**
-   ![Results](screenshots/results.png)
+   ![Results](image/3.png)
 
 ## Contributing
 
